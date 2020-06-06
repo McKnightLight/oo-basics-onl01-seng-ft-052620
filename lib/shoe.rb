@@ -6,7 +6,7 @@ class Shoe
   end 
   
   def brand 
-    @brand 
+    puts "Nike" 
   end 
   
   def initialize(color)
