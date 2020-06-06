@@ -36,4 +36,3 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end 
 end
-
